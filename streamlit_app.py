@@ -64,3 +64,5 @@ chart = (
     .properties(height=320)
 )
 st.altair_chart(chart, use_container_width=True)
+
+print("alo bebe")
